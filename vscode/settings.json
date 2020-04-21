@@ -1,0 +1,33 @@
+{
+    "debug.console.fontFamily": "\"Fira Code\", Monaco, monospace",
+    "debug.console.fontSize": 16,
+    "debug.console.lineHeight": 19,
+    "editor.autoClosingQuotes": "never",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoSurround": "never",
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.fontFamily": "\"Fira Code\", Monaco, monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "400",
+    "editor.lineHeight": 19,
+    "editor.letterSpacing": -2,
+    "editor.rulers": [80, 88],
+    "editor.wordWrapColumn": 88,
+    "html.autoClosingTags": false,
+    "python.dataScience.sendSelectionToInteractiveWindow": false,
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "400",
+    "terminal.integrated.letterSpacing": -1,
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.startupEditor": "none",
+    "workbench.editor.closeEmptyGroups": false,
+    "workbench.panel.defaultLocation": "right",
+    "[git-commit]": {
+        "editor.rulers": [50, 79]
+    }
+}
