@@ -5,7 +5,9 @@ myself to do as much inside VS Code as possible, as it is quite pleasant to work
 screen in that editor. I've made some "modern" changes to get with the times, such as
 pushing my ruler out to 88 (Black swayed me on this), and I'm adopting Poetry, Black,
 and all the modern staples of modernly modern Python modernness because I'm starting to
-get gray hair and people are looking at me funny. Hello, fellow kids.
+get gray hair and people are looking at me funny.
+
+Greetings, fellow kids.
 
 I mainly use this to shuttle dotfiles around between workstations, but I've placed it
 into the public domain in case it's useful for you in some way.
