@@ -12,10 +12,12 @@
     "editor.fontWeight": "400",
     "editor.lineHeight": 19,
     "editor.letterSpacing": -2,
+    "editor.minimap.enabled": false,
     "editor.rulers": [80, 88],
     "editor.wordWrapColumn": 88,
     "html.autoClosingTags": false,
     "python.dataScience.sendSelectionToInteractiveWindow": false,
+    "python.venvPath": "~/Library/Caches/pypoetry/virtualenvs",
     "telemetry.enableTelemetry": false,
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.fontWeight": "400",
@@ -26,8 +28,8 @@
     "workbench.iconTheme": "vs-minimal",
     "workbench.startupEditor": "none",
     "workbench.editor.closeEmptyGroups": false,
-    "workbench.panel.defaultLocation": "right",
+    "workbench.panel.defaultLocation": "left",
     "[git-commit]": {
         "editor.rulers": [50, 79]
-    }
+    },
 }
