@@ -31,5 +31,5 @@
     "workbench.panel.defaultLocation": "left",
     "[git-commit]": {
         "editor.rulers": [50, 79]
-    },
+    }
 }
